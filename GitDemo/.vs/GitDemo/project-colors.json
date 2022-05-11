@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c389af83-6c5c-4253-9d42-ec5ed440b05c": {
+      "ProjectGuid": "c389af83-6c5c-4253-9d42-ec5ed440b05c",
+      "DisplayName": "GitDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
