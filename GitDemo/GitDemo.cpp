@@ -5,5 +5,6 @@
 
 int main()
 {
+    std::cout << "Hello! *Person 2 stuff*\n";
     std::cout << "Hello! *Person one changes*\n";
 }
